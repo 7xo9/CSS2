@@ -47,7 +47,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 700px;
+    height: 70vh;
+  
 }
 
 .mid h1{
@@ -76,4 +77,14 @@ img{
 .diii{
     display: flex;
     justify-content: center;
+}
+.white{
+    width: 100vw;
+    background-color: white;
+    height: 50vh;
+}
+
+.para{
+    display: flex;
+    align-items: center;
 }
