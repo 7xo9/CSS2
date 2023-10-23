@@ -77,6 +77,8 @@ img{
 .diii{
     display: flex;
     justify-content: center;
+    cursor: pointer;
+
 }
 .white{
     width: 100vw;
@@ -87,4 +89,36 @@ img{
 .para{
     display: flex;
     align-items: center;
+}
+
+.whitee{
+    background-color: white;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.cont{
+    background-color: white;
+    height: 90vh;
+    width: 60vw;
+    display: flex;
+    border: rgb(255, 118, 118) solid 1px;
+    justify-content: center;
+}
+
+.div-img{
+    background-color: white;
+    display: flex;
+    position: relative;
+    align-items: center;   
+}
+
+.img1{
+    position: absolute;
+}
+
+.img2{
+    position: relative;
 }
